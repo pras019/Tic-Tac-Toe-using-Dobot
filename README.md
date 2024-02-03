@@ -1,6 +1,6 @@
 # Tic-Tac-Toe Game (Human Vs Robot) using Python
 
-**Pythonを使用した三目並べゲーム (人間対ロボット)**
+**Pythonを使用したマルバツゲーム (人間対ロボット)**
 
 This program enables humans and robots, specifically the Dobot, to compete in a 3x3 tic-tac-toe game. In this program, shapes and contours are defined using OpenCV. A fixed algorithm is established, and Dobot codes are employed to maneuver the robotic arm. The objective is to either achieve a draw or secure a victory for the human player.
 
