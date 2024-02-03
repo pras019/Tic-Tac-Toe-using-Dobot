@@ -16,7 +16,8 @@ THINGS TO DO:
 6. Finally, put the squares outside the board (Left) and enjoy the game. 
 7. Press S after each move.
 
-https://github.com/pras019/Tic-Tac-Toe-using-Dobot/assets/40199695/2904124f-7315-4d23-9cdb-8215f7beabe7
+https://github.com/pras019/Tic-Tac-Toe-using-Dobot/assets/40199695/db559bc4-317e-45d1-9101-3ba6c6c38864
 
-https://github.com/pras019/Tic-Tac-Toe-using-Dobot/assets/40199695/8216a5e0-2000-441a-a6c5-b12bc7e51926
+https://github.com/pras019/Tic-Tac-Toe-using-Dobot/assets/40199695/2f7109db-a360-450b-aed0-fe5632cdf955
+
 
