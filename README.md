@@ -4,7 +4,7 @@
 
 This program enables humans and robots, specifically the Dobot, to compete in a 3x3 tic-tac-toe game. In this program, shapes and contours are defined using OpenCV. A fixed algorithm is established, and Dobot codes are employed to maneuver the robotic arm. The objective is to either achieve a draw or secure a victory for the human player.
 
-このプログラムでは、人間とロボット、特にDobotが3x3のまるばつで競います。このプログラムでは、形状と輪郭はOpenCVを使用して定義されます。固定されたアルゴリズムが設定され、Dobotのコードがロボットアームを操作するために使用されます。目標は、人間が引き分けるか勝つことです。
+このプログラムでは、人間とロボット、特にDobotが3x3のマルバツで競います。このプログラムでは、形状と輪郭はOpenCVを使用して定義されます。固定されたアルゴリズムが設定され、Dobotのコードがロボットアームを操作するために使用されます。目標は、人間が引き分けるか勝つことです。
 
 THINGS TO DO:
 
